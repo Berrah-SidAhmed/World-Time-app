@@ -17,7 +17,7 @@ This World Time App is a simple yet functional Flutter application that allows u
     •    Asynchronous programming (Future, async/await)
 
 # 📷 Screenshots
-<img src="assets/img/worldtime.gif" height="350em" />
+<img src="assets/worldtime.gif" height="350em" />
 
 
 ### 1 - Clone the repository:
