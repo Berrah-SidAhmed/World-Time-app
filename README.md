@@ -21,7 +21,7 @@ This World Time App is a simple yet functional Flutter application that allows u
 
 
 ### 1 - Clone the repository:
-git clone https://github.com/yourusername/calculator-app.git  
+git clone https://github.com/berrah-sidahmed/calculator-app.git  
 cd tic-tac-toe
 
 ### 2 -  Install dependencies:
